@@ -1,0 +1,28 @@
+_repo: McClure-s-Magazine-December-1895_11548
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Tarbell, Ida M. (Ida Minerva)
+    alias: Tarbell, Ida Minerva
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '4022'
+    url: http://www.gutenberg.org/2009/agents/4022
+    wikipedia: http://en.wikipedia.org/wiki/Ida_M._Tarbell
+description: ''
+gutenberg_bookshelf: McClure's Magazine
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Literature -- Periodicals'
+- !lcsh 'American literature -- Periodicals'
+- GITenberg
+title: McClure's Magazine December, 1895
+url: http://www.gutenberg.org/ebooks/11548
